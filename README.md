@@ -2,7 +2,7 @@
 # PowerupDrop
 Requires BepInEx
 
-Allows you to drop powerups
+Allows you to drop powerups by clicking on a powerup icon in your inventory
 
 Every player needs to have the mod if playing multiplayer
 
